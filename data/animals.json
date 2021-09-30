@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "lenny",
+      "species": "frenchie",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
